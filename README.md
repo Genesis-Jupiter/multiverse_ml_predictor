@@ -55,13 +55,7 @@ File: `simulated_multiverse_dataset.csv`
 With:
 - Outliers
 - Missing values
-- Inconsistent strings (`'???'`, `'unknown'`)
-
-## 📢 Showcase
-
-✔️ Suitable for portfolio, ML storytelling, or LinkedIn posts  
-✔️ Covers complete ML workflow  
-✔️ Imbalance + visualization handling for real-world relevance
+- Inconsistent strings (`'???'`, `'unknown')
 
 ---
 
