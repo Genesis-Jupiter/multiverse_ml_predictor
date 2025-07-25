@@ -89,12 +89,6 @@ streamlit run streamlit_app.py
 
 ---
 
-## 👨‍💻 Author
-
-**Bhaskar Gupta**  
-📬 [LinkedIn Post Coming Soon!]
-
----
 
 ## 📥 Downloads
 
